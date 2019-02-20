@@ -24,6 +24,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
+gem 'minitest-reporters', '~> 1.3', '>= 1.3.6'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
