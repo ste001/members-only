@@ -2,7 +2,7 @@
 
 This application let the authorized members write one or more posts, while non-registered members can only see the content of those posts but not the author.
 
-# INSTALL & RUN
+## INSTALL & RUN
 
 First off, clone this repo locally and update the required Gems.
 
